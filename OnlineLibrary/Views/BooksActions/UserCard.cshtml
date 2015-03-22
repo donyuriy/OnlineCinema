@@ -1,0 +1,76 @@
+﻿@model IEnumerable<OnlineLibrary.Models.UserCard>
+
+@{
+    ViewBag.Title = "UserCard";
+}
+@Styles.Render("~/Content/popup_window.css")
+@Scripts.Render("~/Scripts/popup_window.js")
+<h2>Карта пользователя</h2>
+
+<div class="popup-box" id="popup-box-1">    @*Всплывающее окно*@ 
+    <div class="close">X</div>
+    <div class="top">
+        <h2>Вы взяли кигу.</h2>
+    </div>
+    <div class="bottom">@ViewBag.Book</div>
+</div>
+
+<table id="userCardTable">
+    <tr>        
+        <th>
+            Название книги
+        </th>
+        <th>
+            Дата взятия книги
+        </th>
+        <th>
+            Дата возврата книги
+        </th>
+        <th></th>
+        <th></th>
+    </tr>
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @foreach (var b in ViewBag.Books)
+                {
+                    if (b.Id == item.Id_Book)
+                    {
+                    <p>@b.Name</p>
+                }
+            }
+            </td>
+            <td>
+                @item.DateIn.ToShortDateString();
+            </td>
+            <td>
+                @if (item.DateOut!=null)
+                {
+                    @item.DateOut.Value.ToShortDateString();
+                }                
+            </td>
+            <td>
+                @using(Html.BeginForm("ReturnTheBook","BooksActions",item))
+                {                    
+                    if (item.DateOut==null)
+                    {                        
+                        <p>
+                            <input type="submit" value="Вернуть книгу" />       @*-------ВЕРНУТЬ КНИГУ-----------*@
+                        </p>
+                    }
+                }
+            </td>
+            <td >
+                @if (item.Message!=null)
+                {
+                    <p style="color:red; font-weight:900;">Просьба вернуть данную книгу!</p>
+                }
+            </td>
+        </tr>
+        }
+    }
+</table><br />
+@Html.ActionLink("Обратно к списку", "Index","OnlineLib")

@@ -1,0 +1,716 @@
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.pdb
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Antlr3.Runtime.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.AspNet.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.Core.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\EntityFramework.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.Edm.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.OData.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.Infrastructure.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.WebPages.OAuth.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Newtonsoft.Json.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Net.Http.Formatting.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Spatial.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Helpers.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.OData.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.WebHost.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Mvc.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Optimization.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Razor.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Deployment.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Razor.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\WebGrease.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\WebMatrix.Data.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\WebMatrix.WebData.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\EntityFramework.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Newtonsoft.Json.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Net.Http.Formatting.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Helpers.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.WebHost.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Mvc.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Razor.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Deployment.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Razor.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\WebMatrix.Data.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.WebPages.OAuth.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\WebMatrix.WebData.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.AspNet.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.Core.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.OData.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.Edm.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.OData.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Spatial.xml
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\EntityFramework.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Net.Http.Formatting.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Helpers.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.WebHost.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Mvc.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Optimization.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Razor.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.Deployment.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.Razor.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\WebMatrix.Data.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\WebMatrix.WebData.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.OData.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\de\Microsoft.Data.Edm.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\es\Microsoft.Data.Edm.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\fr\Microsoft.Data.Edm.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\it\Microsoft.Data.Edm.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ja\Microsoft.Data.Edm.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ko\Microsoft.Data.Edm.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Data.Edm.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\de\Microsoft.Data.OData.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\es\Microsoft.Data.OData.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\fr\Microsoft.Data.OData.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\it\Microsoft.Data.OData.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ja\Microsoft.Data.OData.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ko\Microsoft.Data.OData.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Data.OData.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\de\System.Spatial.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\es\System.Spatial.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\fr\System.Spatial.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\it\System.Spatial.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ja\System.Spatial.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ko\System.Spatial.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Spatial.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hans\System.Spatial.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hant\System.Spatial.resources.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.csprojResolveAssemblyReference.cache
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.dll
+G:\NET - ASP\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.pdb
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.pdb
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\Antlr3.Runtime.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.AspNet.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.Core.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\EntityFramework.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.Edm.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.OData.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Net.Http.Formatting.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Spatial.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.Helpers.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.OData.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.WebHost.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.Mvc.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.Optimization.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.Razor.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\WebGrease.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\WebMatrix.Data.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\WebMatrix.WebData.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\EntityFramework.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Net.Http.Formatting.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.Helpers.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.WebHost.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.Mvc.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.Razor.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\WebMatrix.Data.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\WebMatrix.WebData.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.AspNet.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.Core.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.OData.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.Edm.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.OData.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\System.Spatial.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\EntityFramework.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Helpers.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Mvc.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Optimization.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Razor.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\WebMatrix.Data.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\WebMatrix.WebData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\de\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\es\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\it\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\de\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\es\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\fr\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\it\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ja\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ko\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\ru\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\zh-Hans\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\zh-Hant\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.pdb
+D:\Don\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.pdb
+D:\Don\OnlineLibrary\OnlineLibrary\bin\Antlr3.Runtime.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.AspNet.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.Core.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\EntityFramework.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.Edm.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.OData.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.Infrastructure.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\Newtonsoft.Json.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Net.Http.Formatting.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Spatial.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.Helpers.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.OData.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.WebHost.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.Mvc.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.Optimization.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.Razor.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Deployment.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Razor.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\WebGrease.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\WebMatrix.Data.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\WebMatrix.WebData.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\EntityFramework.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\Newtonsoft.Json.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Net.Http.Formatting.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.Helpers.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.WebHost.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.Mvc.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.Razor.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Deployment.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Razor.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\WebMatrix.Data.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\WebMatrix.WebData.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.AspNet.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.Core.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.OData.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.Edm.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.OData.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\System.Spatial.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\EntityFramework.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Helpers.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Mvc.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Optimization.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Razor.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\WebMatrix.Data.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\WebMatrix.WebData.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.OData.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\de\Microsoft.Data.OData.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\es\Microsoft.Data.OData.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\it\Microsoft.Data.OData.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\de\System.Spatial.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\es\System.Spatial.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\fr\System.Spatial.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\it\System.Spatial.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ja\System.Spatial.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ko\System.Spatial.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\ru\System.Spatial.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\zh-Hans\System.Spatial.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\zh-Hant\System.Spatial.resources.dll
+D:\Don\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.csprojResolveAssemblyReference.cache
+D:\Don\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.dll
+D:\Don\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.pdb
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.pdb
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Antlr3.Runtime.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.AspNet.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.Core.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.Consumer.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\EntityFramework.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.Edm.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.OData.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.Infrastructure.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.WebPages.OAuth.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Newtonsoft.Json.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Net.Http.Formatting.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Spatial.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Helpers.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.OData.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.WebHost.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Mvc.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Optimization.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Razor.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Deployment.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Razor.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\WebGrease.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\WebMatrix.Data.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\WebMatrix.WebData.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\EntityFramework.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Newtonsoft.Json.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Net.Http.Formatting.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Helpers.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.WebHost.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Mvc.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Razor.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Deployment.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Razor.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\WebMatrix.Data.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.WebPages.OAuth.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\WebMatrix.WebData.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.AspNet.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.Core.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.Consumer.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.OData.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.Edm.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.OData.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\System.Spatial.xml
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\EntityFramework.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Net.Http.Formatting.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Helpers.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.WebHost.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Mvc.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Optimization.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Razor.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.Deployment.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.Razor.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\WebMatrix.Data.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\WebMatrix.WebData.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.OData.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\de\Microsoft.Data.Edm.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\es\Microsoft.Data.Edm.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\it\Microsoft.Data.Edm.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\de\Microsoft.Data.OData.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\es\Microsoft.Data.OData.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\fr\Microsoft.Data.OData.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\it\Microsoft.Data.OData.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ja\Microsoft.Data.OData.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ko\Microsoft.Data.OData.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Data.OData.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\de\System.Spatial.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\es\System.Spatial.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\fr\System.Spatial.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\it\System.Spatial.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ja\System.Spatial.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ko\System.Spatial.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Spatial.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hans\System.Spatial.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hant\System.Spatial.resources.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.csprojResolveAssemblyReference.cache
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.dll
+H:\NET - ASP\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.pdb
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.pdb
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\Antlr3.Runtime.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.AspNet.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.Core.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.Consumer.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\EntityFramework.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.Edm.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.OData.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.Infrastructure.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.WebPages.OAuth.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\Newtonsoft.Json.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Net.Http.Formatting.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Spatial.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Helpers.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.OData.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.WebHost.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Mvc.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Optimization.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Razor.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Deployment.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Razor.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\WebGrease.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\WebMatrix.Data.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\WebMatrix.WebData.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\EntityFramework.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\Newtonsoft.Json.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Net.Http.Formatting.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Helpers.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.WebHost.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Mvc.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Razor.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Deployment.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.WebPages.Razor.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\WebMatrix.Data.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Web.WebPages.OAuth.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\WebMatrix.WebData.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.AspNet.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.Core.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.Consumer.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OAuth.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Web.Http.OData.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.Edm.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\Microsoft.Data.OData.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\System.Spatial.xml
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\EntityFramework.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Net.Http.Formatting.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Helpers.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.WebHost.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Mvc.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Optimization.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Razor.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.Deployment.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.WebPages.Razor.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\WebMatrix.Data.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\WebMatrix.WebData.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Web.Http.OData.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\de\Microsoft.Data.Edm.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\es\Microsoft.Data.Edm.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\it\Microsoft.Data.Edm.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\de\Microsoft.Data.OData.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\es\Microsoft.Data.OData.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\fr\Microsoft.Data.OData.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\it\Microsoft.Data.OData.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ja\Microsoft.Data.OData.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ko\Microsoft.Data.OData.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\Microsoft.Data.OData.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\de\System.Spatial.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\es\System.Spatial.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\fr\System.Spatial.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\it\System.Spatial.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ja\System.Spatial.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ko\System.Spatial.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\ru\System.Spatial.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hans\System.Spatial.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\bin\zh-Hant\System.Spatial.resources.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.csprojResolveAssemblyReference.cache
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.dll
+H:\NET-ASP\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.pdb
+D:\Don\OnlineLibrary\OnlineLibrary\bin\PagedList.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\PagedList.Mvc.dll
+D:\Don\OnlineLibrary\OnlineLibrary\bin\PagedList.xml
+D:\Don\OnlineLibrary\OnlineLibrary\bin\PagedList.Mvc.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\PagedList.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\PagedList.Mvc.dll
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\PagedList.xml
+D:\Documents\Visual Studio 2010\Projects\OnlineLibrary\OnlineLibrary\bin\PagedList.Mvc.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\OnlineLibrary.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\OnlineLibrary.pdb
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\Antlr3.Runtime.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\DotNetOpenAuth.AspNet.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\DotNetOpenAuth.Core.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\DotNetOpenAuth.OAuth.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\DotNetOpenAuth.OpenId.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\EntityFramework.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\Microsoft.Data.Edm.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\Microsoft.Data.OData.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\PagedList.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\PagedList.Mvc.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Net.Http.Formatting.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Spatial.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.Helpers.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.Http.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.Http.OData.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.Http.WebHost.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.Mvc.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.Optimization.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.Razor.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.WebPages.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\WebGrease.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\WebMatrix.Data.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\WebMatrix.WebData.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\PagedList.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\PagedList.Mvc.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\EntityFramework.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Net.Http.Formatting.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.Helpers.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.Http.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.Http.WebHost.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.Mvc.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.Razor.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.WebPages.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\WebMatrix.Data.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\WebMatrix.WebData.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\DotNetOpenAuth.AspNet.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\DotNetOpenAuth.Core.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\DotNetOpenAuth.OAuth.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\DotNetOpenAuth.OpenId.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Web.Http.OData.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\Microsoft.Data.Edm.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\Microsoft.Data.OData.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\System.Spatial.xml
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\EntityFramework.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\System.Web.Helpers.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\System.Web.Http.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\System.Web.Mvc.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\System.Web.Optimization.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\System.Web.Razor.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\System.Web.WebPages.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\WebMatrix.Data.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\WebMatrix.WebData.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\System.Web.Http.OData.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\de\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\es\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\it\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\de\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\es\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\fr\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\it\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ja\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ko\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\ru\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\zh-Hans\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\bin\zh-Hant\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\obj\Debug\OnlineLibrary.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\obj\Debug\OnlineLibrary.dll
+D:\Documents\Visual Studio 2010\emp\OnlineLibrary\obj\Debug\OnlineLibrary.pdb
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\OnlineLibrary.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\OnlineLibrary.pdb
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\Antlr3.Runtime.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\DotNetOpenAuth.AspNet.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\DotNetOpenAuth.Core.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\DotNetOpenAuth.OAuth.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\DotNetOpenAuth.OpenId.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\EntityFramework.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\Microsoft.Data.Edm.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\Microsoft.Data.OData.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\PagedList.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\PagedList.Mvc.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Net.Http.Formatting.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Spatial.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.Helpers.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.Http.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.Http.OData.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.Http.WebHost.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.Mvc.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.Optimization.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.Razor.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.WebPages.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\WebGrease.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\WebMatrix.Data.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\WebMatrix.WebData.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\PagedList.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\PagedList.Mvc.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\EntityFramework.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Net.Http.Formatting.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.Helpers.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.Http.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.Http.WebHost.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.Mvc.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.Razor.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.WebPages.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\WebMatrix.Data.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\WebMatrix.WebData.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\DotNetOpenAuth.AspNet.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\DotNetOpenAuth.Core.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\DotNetOpenAuth.OAuth.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\DotNetOpenAuth.OpenId.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Web.Http.OData.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\Microsoft.Data.Edm.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\Microsoft.Data.OData.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\System.Spatial.xml
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\EntityFramework.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\System.Web.Helpers.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\System.Web.Http.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\System.Web.Mvc.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\System.Web.Optimization.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\System.Web.Razor.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\System.Web.WebPages.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\WebMatrix.Data.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\WebMatrix.WebData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\System.Web.Http.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\de\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\es\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\it\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\de\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\es\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\fr\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\it\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ja\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ko\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\ru\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\zh-Hans\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\bin\zh-Hant\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\obj\Debug\OnlineLibrary.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\obj\Debug\OnlineLibrary.dll
+D:\Documents\Visual Studio 2010\Projects\Ol\OnlineLibrary\obj\Debug\OnlineLibrary.pdb

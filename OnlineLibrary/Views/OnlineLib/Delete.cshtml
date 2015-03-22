@@ -1,0 +1,110 @@
+﻿@model OnlineLibrary.Models.Books
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Вы действительно хотите удалить книгу?</h2>
+
+<fieldset>
+    <legend>Books</legend>
+
+    <div class="display-label">
+        <strong>@Html.DisplayNameFor(model => model.Name)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+
+    <div class="display-label">
+         <strong>@Html.DisplayNameFor(model => model.Pages)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Pages)
+    </div>
+
+    <div class="display-label">
+        <strong> @Html.DisplayNameFor(model => model.YearPress)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.YearPress)
+    </div>
+
+    <div class="display-label">
+        <strong> @Html.DisplayNameFor(model => model.Quantity)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Quantity)
+    </div>
+
+    <div class="display-label">
+         <strong>@Html.DisplayNameFor(model => model.Id_Themes)</strong>
+    </div>
+    <div class="display-field">
+        @foreach (var t in ViewBag.Themes)
+            {
+                if (t.Id == Model.Id_Themes)
+                {
+                    string tName=t.Name;
+                    @Html.DisplayFor(modelItem =>tName)
+                }                
+            }      
+    </div>
+
+    <div class="display-label">
+         <strong>@Html.DisplayNameFor(model => model.Id_Cathegory)</strong>
+    </div>
+    <div class="display-field">
+        @foreach (var c in ViewBag.Cathegory)
+            {
+                if (c.Id == Model.Id_Cathegory)
+                {
+                    string cName=c.Name;
+                    @Html.DisplayFor(modelItem =>cName)
+                }                
+            } 
+    </div>
+
+    <div class="display-label">
+         <strong>@Html.DisplayNameFor(model => model.Id_Author)</strong>
+    </div>
+    <div class="display-field">
+       @foreach (var a in ViewBag.Authors)
+            {
+                if (a.Id == Model.Id_Author)
+                {
+                    string aName=a.FirstName + " " + a.LastName;
+                    @Html.DisplayFor(modelItem =>aName)
+                    break;
+                }                
+            }
+    </div>
+
+    <div class="display-label">
+         <strong>@Html.DisplayNameFor(model => model.Id_Press)</strong>
+    </div>
+    <div class="display-field">
+        @foreach (var p in ViewBag.Press)
+            {
+                if (p.Id == Model.Id_Press)
+                {
+                    string pName=p.Name;
+                    @Html.DisplayFor(modelItem =>pName)
+                    break;
+                }                
+            } 
+    </div>
+
+    <div class="display-label">
+         <strong>@Html.DisplayNameFor(model => model.Comment)</strong>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Comment)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Удалить" /> |
+        @Html.ActionLink("Обратно к списку", "Index")
+    </p>
+}

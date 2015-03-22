@@ -1,0 +1,116 @@
+﻿@model OnlineLibrary.Models.Books
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Редактирование</h2>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Books</legend>
+
+        @Html.HiddenFor(model => model.Id)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Name)                 @*Name -> Books*@
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Pages)                @*Pages -> Books*@
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Pages)
+            @Html.ValidationMessageFor(model => model.Pages)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.YearPress)            @*YearPress -> Books*@
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.YearPress)
+            @Html.ValidationMessageFor(model => model.YearPress)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Quantity)             @*Quantity -> Books*@
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Quantity)
+            @Html.ValidationMessageFor(model => model.Quantity)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Id_Themes)            @*Themes -> Id_Themes*@
+        </div>
+        <div class="editor-field">
+            <select name="Id_Themes">
+                @foreach (var item in ViewBag.Themes)
+                {
+                    <option value="@item.Id">@item.Name</option>
+            }
+            </select>
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Id_Cathegory)         @*Cathegories -> Id_Cathegories*@
+        </div>
+        <div class="editor-field">
+            <select name="Id_Cathegories">
+                @foreach (var item in ViewBag.Cathegory)
+                {
+                    <option value="@item.Id">@item.Name</option>
+            }
+            </select>
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Id_Author)            @*Author -> Id_Author*@
+        </div>
+        <div class="editor-field">
+            <select name="Id_Author">
+                @foreach (var item in ViewBag.Authors)
+                {
+                    <option value="@item.Id">@(item.FirstName + " " +item.LastName)</option>
+            }
+            </select>
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Id_Press)             @*Press -> Id_Press*@
+        </div>
+        <div class="editor-field">
+            <select name="Id_Press">
+                @foreach (var item in ViewBag.Press)
+                {
+                    <option value="@item.Id">@item.Name</option>
+            }
+            </select>
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Comment)              @*Comment - Books*@
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Comment)
+            @Html.ValidationMessageFor(model => model.Comment)
+        </div>
+
+        <p>
+            <input type="submit" value="Сохранить изменения" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Обратно к списку", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

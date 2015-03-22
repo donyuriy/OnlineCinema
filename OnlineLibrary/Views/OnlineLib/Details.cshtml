@@ -1,0 +1,117 @@
+﻿@model OnlineLibrary.Models.Books
+@{
+    ViewBag.Title = "Details";
+}
+<style>
+    .display-label {
+        font-weight: 900;
+    }
+</style>
+
+<fieldset id="newFieldset">
+    <legend>Books</legend>
+    <div id="detailPictureBox">
+        @if (Model.PictureLink != null)
+        {
+            <img class="bookIcon" src="@Model.PictureLink" /><br />}
+        else
+        {<img class="bookIcon" src="..\..\Images\BooksImages\book_image.jpg" /><br />}
+        
+    </div>
+    <p class="display-label pInfo">
+        @Html.DisplayFor(model => model.Name)
+        </p>
+    <div id="detailInfoBox">
+
+        <div class="display-label">
+            @Html.DisplayNameFor(model => model.Pages)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Pages)
+        </div>
+
+        <div class="display-label">
+            @Html.DisplayNameFor(model => model.YearPress)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.YearPress)
+        </div>
+
+        <div class="display-label">
+            @Html.DisplayNameFor(model => model.Quantity)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Quantity)
+        </div>
+
+        <div class="display-label">
+            @Html.DisplayNameFor(model => model.Id_Themes)
+        </div>
+        <div class="display-field">
+            @foreach (var t in ViewBag.Themes)
+            {
+                if (t.Id == Model.Id_Themes)
+                {
+                    string tName = t.Name;
+                @Html.DisplayFor(modelItem => tName)
+                }
+            }
+        </div>
+
+        <div class="display-label">
+
+            @Html.DisplayNameFor(model => model.Id_Cathegory)
+        </div>
+        <div class="display-field">
+            @foreach (var c in ViewBag.Cathegory)
+            {
+                if (c.Id == Model.Id_Cathegory)
+                {
+                    string cName = c.Name;
+                @Html.DisplayFor(modelItem => cName)
+                }
+            }
+        </div>
+        <div class="display-label">
+            @Html.DisplayNameFor(model => model.Id_Author)
+        </div>
+        <div class="display-field">
+            @foreach (var a in ViewBag.Authors)
+            {
+                if (a.Id == Model.Id_Author)
+                {
+                    string aName = a.FirstName + " " + a.LastName;
+                @Html.DisplayFor(modelItem => aName)
+                    break;
+                }
+            }
+        </div>
+        <div class="display-label">
+            @Html.DisplayNameFor(model => model.Id_Press)
+        </div>
+        <div class="display-field">
+            @foreach (var p in ViewBag.Press)
+            {
+                if (p.Id == Model.Id_Press)
+                {
+                    string pName = p.Name;
+                @Html.DisplayFor(modelItem => pName)
+                    break;
+                }
+            }
+        </div>
+
+        <div class="display-label">
+            @Html.DisplayNameFor(model => model.Comment)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Comment)
+        </div>
+    </div>
+</fieldset>
+<p style="text-align:center;">
+    @if (Request.IsAuthenticated) {
+        if(User.IsInRole("administrator")){
+    @Html.ActionLink("Редактировать", "Edit", new { id = Model.Id }) }} 
+    @Html.ActionLink("Обратно к списку", "Index")
+</p>

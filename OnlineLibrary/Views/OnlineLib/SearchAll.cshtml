@@ -1,0 +1,54 @@
+﻿@model PagedList.IPagedList<OnlineLibrary.Models.Books>
+@Styles.Render("~/Content/PagedList.css")
+@Scripts.Render("~/Scripts/jquery-1.8.2.js")
+@using PagedList.Mvc;
+
+<div id="SearchResult">
+    <br />
+    @foreach (var item in Model)
+    {   
+        <div class="bookInfo">
+            @if (item.PictureLink != null)
+            {
+                <img class="bookIcon" src ="@item.PictureLink" /><br />}
+            else
+            {
+                <a href="~/OnlineLib/Details/@item.Id">
+                <img class="bookIcon" src="Images\BooksImages\book_image.jpg" /></a><br />}
+
+            <strong>@Html.DisplayFor(modelItem => item.Name)</strong><br />
+
+            @foreach (var a in ViewBag.Authors)     
+            {
+                if (a.Id == item.Id_Author)           
+                {
+                    <span>@(a.FirstName + " " + a.LastName)</span>
+                    break;
+                }
+             }<br />
+
+            @Html.DisplayFor(modelItem => item.YearPress)<br />
+            @Html.DisplayFor(modelItem => item.Comment)<br />
+
+        @if (Request.IsAuthenticated)
+        {
+            @*взять книгу можно только если вы авторизованы как читатель(user)*@
+            if(User.IsInRole("user"))   
+            {
+                var bookName = item.Name;                                
+                <a href="~/BooksActions/GetTheBook/@item.Id" class="popup-link-1">Взять книгу</a><br />        @*взятие книги работает только через такой вариант html тега*@ 
+            }
+            @*редактирование и удаление книги доступно только Администратору*@
+            if (User.IsInRole("administrator")) 
+            {
+                @Html.ActionLink("Редактировать", "Edit", new { id = item.Id })<br />
+                @Html.ActionLink("Удалить", "Delete", new { id = item.Id })<br />  
+            }
+        }                 
+        <br />           
+        </div>
+    }
+    @Html.PagedListPager(Model, page=>Url.Action("Index", new { page }))
+</div>
+<br />
+

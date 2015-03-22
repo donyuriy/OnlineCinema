@@ -1,0 +1,66 @@
+﻿@model PagedList.IPagedList<OnlineLibrary.Models.Books>
+@Scripts.Render("~/Scripts/jquery-1.8.2.js")
+@Styles.Render("~/Content/PagedList.css")
+
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+}
+
+<script type="text/javascript">
+    if (@ViewBag.Result =="0")          @*Если книга уже была взята, то экшн GetBook вернёт "0"*@
+    {
+        alert("У вас уже есть эта книга. Нельзя взять 2 одинаковых книги.");
+    }
+    if (@ViewBag.Result == "1")         @*Если вы взяли книгу, то экшн GetBook вернёт "1"*@
+    {
+        alert("Вы взяли книгу.");
+    }    
+    else{}
+</script>
+  
+<p>
+    @*--------Для отображения кнопки "Новая запись" необходимо авторизоваться как Администратор-----------*@
+    @if (Request.IsAuthenticated)
+    {
+        if (User.IsInRole("administrator"))
+        { 
+            @Html.ActionLink("Добавить книгу", "Create")
+            using (Html.BeginForm("AdminCard", "BooksActions"))
+            {@*----------КАРТА АДМИНИСТРАТОРА-------*@
+                <p>
+                    <input type="submit" value="Администрирование" />
+            
+                </p>
+            }
+        }
+    }
+    else
+    {
+        <strong>Вы вошли как Гость. Для того чтобы взять книгу Вам необходимо авторизоваться.</strong>
+    }
+</p>
+<div class="userCard">
+    @if (Request.IsAuthenticated)
+    {
+        if (User.IsInRole("user"))
+        {
+            using (Html.BeginForm("UserCard", "BooksActions"))
+            {@*----------КАРТА ПОЛЬЗОВАТЕЛЯ-------*@
+                <p>
+                    <input type="submit" value="Карта пользователя" />
+            
+                </p>
+            }
+        }
+    }
+</div>
+@using (Ajax.BeginForm("SearchAll", new AjaxOptions { UpdateTargetId = "SearchResult", InsertionMode = InsertionMode.Replace }))
+{
+    <input type="text" name="search" />
+    <input type="submit" value="Поиск" />
+}
+@Html.Partial("SearchAll")
+
+
+

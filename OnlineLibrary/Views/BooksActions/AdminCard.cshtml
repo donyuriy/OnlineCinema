@@ -1,0 +1,80 @@
+﻿@model IEnumerable<OnlineLibrary.Models.UserCard>
+
+@{
+    ViewBag.Title = "AdminCard";
+}
+
+<h2>Список читателей</h2>
+@using (Html.BeginForm("AdminCard", "BooksActions"))
+{
+    <select name="sortEntry">
+        <option value="0">Все книги</option>
+        <option value="1">Все невозвращенные</option>
+       
+    </select>
+    <input type="submit" value="Отсортировать" />
+}
+
+<table>
+    <tr>
+        <th class="readersAndBooks">
+            Логин
+        </th>
+        <th class="readersAndBooks">
+            Книга
+        </th>
+        <th class="readersAndBooks">
+           Дата взятия книги
+        </th>
+        <th class="readersAndBooks">
+            Дата возврата книги
+        </th>  
+        <th>
+            Отправить напоминание
+        </th>     
+    </tr>
+
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+        <tr>
+            <td class="readersAndBooks">
+                @foreach (var log in ViewBag.Users)
+                {
+                    if (item.Id_User==log.Id_User)
+                    {
+                        <p>@log.Login</p>
+                    }
+                }
+            </td>
+            <td class="readersAndBooks">
+                @foreach (var book in ViewBag.Books)
+                {
+                    if (item.Id_Book==book.Id)
+                    {
+                        <p>@book.Name</p>
+                    }
+                }
+            </td>
+            <td class="readersAndBooks">
+                @Html.DisplayFor(modelItem => item.DateIn)
+            </td>
+            <td class="readersAndBooks">
+                @Html.DisplayFor(modelItem => item.DateOut)
+            </td>
+            <td>
+               @if (item.DateOut==null)
+               {
+                   using (Html.BeginForm("Reminder", "BooksActions"))
+                   {
+                        <a href="~/BooksActions/Reminder/@item.Id_Book,@item.Id_User">Напомнить</a><br />
+                   }
+               }
+            </td>
+        </tr>
+}
+    }
+
+</table>
+@Html.ActionLink("К списку книг", "Index","OnlineLib")

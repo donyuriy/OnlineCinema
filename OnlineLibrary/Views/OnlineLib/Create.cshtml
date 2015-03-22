@@ -1,0 +1,125 @@
+﻿@model OnlineLibrary.Models.Books
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+@if (Request.IsAuthenticated) {
+using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Books</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Pages)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Pages)
+            @Html.ValidationMessageFor(model => model.Pages)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.YearPress)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.YearPress)
+            @Html.ValidationMessageFor(model => model.YearPress)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Quantity)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Quantity)
+            @Html.ValidationMessageFor(model => model.Quantity)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Id_Themes)
+        </div>
+        <div class="editor-field">
+            <select name="Id_Themes">                       @*выбор из существующих Тем*@
+                @foreach (var item in ViewBag.Themes)   
+                {
+                    <option value="@item.Id">@item.Name</option>    
+            }
+            </select>
+            или создайте новую тему<br />
+            <input type="text" name="newTheme" /><br />
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Id_Cathegory)
+        </div>
+        <div class="editor-field">
+            <select name="Id_Cathegories">                  @*выбор из существующих Категорий*@
+                @foreach (var item in ViewBag.Cathegory)
+                {
+                    <option value="@item.Id">@item.Name</option>
+            }
+            </select>
+            или создайте новую категорию<br />
+            <input type="text" name="newCathegory" /><br />
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Id_Author)
+        </div>
+        <div class="editor-field">
+            <select name="Id_Author">                       @*выбор из существующих Авторов*@
+                @foreach (var item in ViewBag.Authors)
+                {
+                    <option value="@item.Id">@(item.FirstName + " " +item.LastName)</option>
+            }
+            </select>
+            или создайте нового автора<br />
+            Имя <input type="text" name="newAuthorFName" size="15" /><br />
+            Фамилия <input type="text" name="newAuthorLName" size="15" /><br />
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Id_Press)
+        </div>
+        <div class="editor-field">
+             <select name="Id_Press">                      @*выбор из существующих Издательств*@
+                @foreach (var item in ViewBag.Press)
+                {
+                    <option value="@item.Id">@item.Name</option>
+            }
+            </select>
+            или укажите новое издательство<br />
+            <input type="text" name="newPress"  /><br />
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Comment)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Comment)
+            @Html.ValidationMessageFor(model => model.Comment)
+        </div>
+
+        <p>
+            <input type="submit" value="Создать" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
